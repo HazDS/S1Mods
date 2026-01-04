@@ -18,6 +18,7 @@ Mods originally created by other authors, continued with permission.
 | Mod | Description | Original Author | Links |
 |-----|-------------|-----------------|-------|
 | **MoreRealisticLaundering** | Enhances money laundering mechanics with customizable business settings, a custom phone app, and configurable prices for properties/vehicles/skateboards | [KampfBallerina](https://github.com/KampfBallerina) | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/MoreRealisticLaundering/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1425) |
+| **MoreRealisticSleeping** | Enhances sleeping mechanics with forced sleep, positive/negative post-sleep effects, and Arrested/Murdered events when sleeping outside your properties | [KampfBallerina](https://github.com/KampfBallerina) | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/MoreRealisticSleeping/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1426) |
 
 ## Reporting Issues
 
