@@ -36,5 +36,5 @@ Before creating an issue, please:
 
 ## Links
 
-- [Thunderstore Profile](https://thunderstore.io/c/schedule-i/p/HazDS/)
+- [Thunderstore Profile](https://thunderstore.io/c/schedule-i/p/HazDS/?section=mods)
 - [Nexus Mods Profile](https://www.nexusmods.com/profile/HazDS/mods)
