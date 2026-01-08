@@ -7,6 +7,7 @@ Welcome to the central support hub for my Schedule 1 mods. Use this repository t
 | Mod | Description | Links |
 |-----|-------------|-------|
 | **BankingApp** | Mobile banking app for your in-game phone - deposit and withdraw money without visiting an ATM | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/BankingApp/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1424) |
+| **DeliveryFix** | Gives the ability to add or remove Properties from the delivery app | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/DeliveryFix/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1449) |
 | **MetalStorage** | Metal variants of standard storage racks with adjustable slot capacities | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/MetalStorage/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1398) |
 | **SuperGrow** | A craftable growth enhancer combining PGR, Speed Grow, and Fertilizer into one powerful additive | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/SuperGrow/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1400) |
 | **WhatCurfew** | Disables the curfew mechanic, allowing free exploration at any time | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/WhatCurfew/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1347) |
