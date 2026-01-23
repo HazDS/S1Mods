@@ -7,8 +7,8 @@ Welcome to the central support hub for my Schedule 1 mods. Use this repository t
 | Mod | Description | Links |
 |-----|-------------|-------|
 | **BankingApp** | Mobile banking app for your in-game phone - deposit and withdraw money without visiting an ATM | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/BankingApp/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1424) |
-| **DeliveryFix** | Gives the ability to add or remove Properties from the delivery app | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/DeliveryFix/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1449) |
 | **MetalStorage** | Metal variants of standard storage racks with adjustable slot capacities | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/MetalStorage/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1398) |
+| **RenameNPCs** | Rename any NPC in the game - custom names persist across sessions and appear on name tags, dialogue, phone contacts, and map markers | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/RenameNPCs/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/) |
 | **SuperGrow** | A craftable growth enhancer combining PGR, Speed Grow, and Fertilizer into one powerful additive | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/SuperGrow/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1400) |
 | **WhatCurfew** | Disables the curfew mechanic, allowing free exploration at any time | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/WhatCurfew/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1347) |
 
@@ -20,6 +20,14 @@ Mods originally created by other authors, continued with permission.
 |-----|-------------|-----------------|-------|
 | **MoreRealisticLaundering** | Enhances money laundering mechanics with customizable business settings, a custom phone app, and configurable prices for properties/vehicles/skateboards | [KampfBallerina](https://github.com/KampfBallerina) | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/MoreRealisticLaundering/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1425) |
 | **MoreRealisticSleeping** | Enhances sleeping mechanics with forced sleep, positive/negative post-sleep effects, and Arrested/Murdered events when sleeping outside your properties | [KampfBallerina](https://github.com/KampfBallerina) | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/MoreRealisticSleeping/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1426) |
+
+## Retired Mods
+
+Mods that are no longer maintained because the game has since addressed the underlying issues.
+
+| Mod | Description | Reason | Links |
+|-----|-------------|--------|-------|
+| **DeliveryFix** | Gave the ability to add or remove Properties from the delivery app | Fixed in a game update | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/DeliveryFix/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1449) |
 
 ## Reporting Issues
 
