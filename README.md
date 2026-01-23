@@ -8,7 +8,7 @@ Welcome to the central support hub for my Schedule 1 mods. Use this repository t
 |-----|-------------|-------|
 | **BankingApp** | Mobile banking app for your in-game phone - deposit and withdraw money without visiting an ATM | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/BankingApp/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1424) |
 | **MetalStorage** | Metal variants of standard storage racks with adjustable slot capacities | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/MetalStorage/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1398) |
-| **RenameNPCs** | Rename any NPC in the game - custom names persist across sessions and appear on name tags, dialogue, phone contacts, and map markers | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/RenameNPCs/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/) |
+| **RenameNPCs** | Rename any NPC in the game - custom names persist across sessions and appear on name tags, dialogue, phone contacts, and map markers | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/RenameNPCs/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1511) |
 | **SuperGrow** | A craftable growth enhancer combining PGR, Speed Grow, and Fertilizer into one powerful additive | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/SuperGrow/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1400) |
 | **WhatCurfew** | Disables the curfew mechanic, allowing free exploration at any time | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/WhatCurfew/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1347) |
 
