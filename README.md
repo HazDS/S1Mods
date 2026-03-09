@@ -7,6 +7,7 @@ Welcome to the central support hub for my Schedule 1 mods. Use this repository t
 | Mod | Description | Links |
 |-----|-------------|-------|
 | **BankingApp** | Mobile banking app for your in-game phone - deposit and withdraw money without visiting an ATM | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/BankingApp/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1424) |
+| **GophxrMod** | A mod that adds Gophxr as a custom NPC with branded clothing items. | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/GophxrMod/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1656) |
 | **MetalStorage** | Metal variants of standard storage racks with adjustable slot capacities | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/MetalStorage/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1398) |
 | **NoPolice** | Disables police spawns and patrols, allowing for a more relaxed gameplay experience without law enforcement interference | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/NoPolice/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1591) |
 | **ProductAppFix** | Fixes a bug in the Product Manager App that prevents setting prices above 999 | [Thunderstore](https://thunderstore.io/c/schedule-i/p/HazDS/ProductAppFix/) · [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1554) |
